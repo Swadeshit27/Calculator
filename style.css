@@ -15,7 +15,7 @@ html {
 }
 
 body {
-    background-image: url("/math.jpg");
+    background-image: url("math.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
